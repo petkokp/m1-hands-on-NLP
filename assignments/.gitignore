@@ -3,3 +3,4 @@ texts
 out
 dumps
 data
+*.pkl
